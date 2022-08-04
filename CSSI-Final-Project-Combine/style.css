@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #1c1427;
+}
+
+.hidden{
+  display: none;
+}
+.emptyMessage{
+  text-align: center;
+  font-size: 25px;
+}
